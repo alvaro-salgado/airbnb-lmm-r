@@ -50,6 +50,24 @@ Se incluyen **efectos aleatorios por intercepto y por pendiente** para capturar 
 
 ---
 
+## 📊 Dashboard en Power BI
+
+Se desarrolló un **dashboard interactivo en Power BI** para visualizar los precios y patrones de los alojamientos de Airbnb.  
+El dashboard permite explorar:
+
+- Distribución de precios por vecindario  
+- Comparación entre diferentes tipos de habitaciones  
+- Relación entre número de huéspedes y precio  
+- Visualización de efectos aleatorios por vecindario  
+
+> ⚠️ Imagen de referencia (dashboard local):
+
+![Dashboard de Airbnb](PowerBI example.png)
+
+> Nota: El dashboard se encuentra en Power BI Desktop; no se dispone de enlace público.
+
+---
+
 ## 🧠 Conclusión
 
 - El **LMM en R** es adecuado para datasets jerárquicos como Airbnb (agrupados por vecindario).  

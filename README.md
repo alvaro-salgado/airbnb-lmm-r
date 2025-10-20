@@ -62,7 +62,7 @@ El dashboard permite explorar:
 
 > ⚠️ Imagen de referencia (dashboard local):
 
-![Dashboard de Airbnb](PowerBI example.png)
+![Dashboard de Airbnb](PowerBI_example.png)
 
 > Nota: El dashboard se encuentra en Power BI Desktop; no se dispone de enlace público.
 
